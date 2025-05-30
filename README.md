@@ -10,6 +10,14 @@
 <!-- Banner GIF -->
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
 
+## 📫 Contacts:
+
+<p align="center">
+  📧 <strong>aaranyamaskey@gmail.com</strong> <br>
+  🌐 <a href="https://www.linkedin.com/in/aaranya-lm-b1100b218/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  📸 Instagram: <code>@aaranya_lm</code>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -34,10 +42,4 @@
 
 
 
-## 📫 Contact Me
 
-<p align="center">
-  📧 <strong>aaranyamaskey@gmail.com</strong> <br>
-  🌐 <a href="https://www.linkedin.com/in/aaranya-lm-b1100b218/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-  📸 Instagram: <code>@aaranya_lm</code>
-</p>
