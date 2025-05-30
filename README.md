@@ -8,7 +8,7 @@
 🔥 Passionate about building intelligent systems and meaningful software products
 </p>
 <!-- Banner GIF -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="max-height: 100px; object-fit: cover;" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" height="200px" style="object-fit: cover;" />
 
 ## 📊 GitHub Stats
 
