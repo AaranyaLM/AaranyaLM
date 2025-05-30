@@ -8,8 +8,7 @@
 🔥 Passionate about building intelligent systems and meaningful software products
 </p>
 <!-- Banner GIF -->
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="max-height: 300px; object-fit: cover;" />
----
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="max-height: 100px; object-fit: cover;" />
 
 ## 📊 GitHub Stats
 
@@ -26,14 +25,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaranyaLM&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+
 
 ## 🚀 Notable Projects
 
 - 📰 [**News Hive**](https://github.com/AaranyaLM/NEWS-Hive):  
   Social news aggregator with AI-powered personalization, built with the **MERN stack** and **ML-based recommendation algorithm**.
 
----
+
 
 ## 📫 Contact Me
 
