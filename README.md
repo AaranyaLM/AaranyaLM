@@ -1,5 +1,4 @@
-<!-- Banner GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 
 <h1 align="center">👋 Hi, I'm Aaranya Lal Maskey</h1>
 
@@ -8,7 +7,8 @@
 📍 Kathmandu, Nepal 🇳🇵 <br>
 🔥 Passionate about building intelligent systems and meaningful software products
 </p>
-
+<!-- Banner GIF -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="max-height: 300px; object-fit: cover;" />
 ---
 
 ## 📊 GitHub Stats
