@@ -13,7 +13,7 @@
 ## 📫 Contacts:
 
 <p align="center">
-  📧 <strong>aaranyamaskey@gmail.com</strong> <br>
+  📧 <strong>aaranyalmaskey@gmail.com</strong> <br>
   🌐 <a href="https://www.linkedin.com/in/aaranya-lm-b1100b218/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   📸 Instagram: <code>@aaranya_lm</code>
 </p>
