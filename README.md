@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Aaranya Lal Maskey</h1>
 
 <p align="center">
-🎓 Computer Science Student | 🧠 AI/ML Enthusiast | 🌐 Full-Stack Developer <br>
+🧠 AI/ML Enthusiast | 🌐 Full-Stack Developer <br>
 📍 Kathmandu, Nepal 🇳🇵 <br>
 🔥 Passionate about building intelligent systems and meaningful software products
 </p>
